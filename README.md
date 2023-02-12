@@ -44,7 +44,3 @@
 <div> 
 <img src = "https://github.com/Bedo-Sayed/Plane-war/blob/main/Screen_shots/mission3_1.png">
 <div>
-
-<div> 
-<img src = "hhttps://github.com/Bedo-Sayed/Plane-war/blob/main/Screen_shots/mission3_2.png">
-<div>
