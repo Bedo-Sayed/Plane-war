@@ -1,5 +1,5 @@
 # Plane-war
-
+A 2D game in which planes/spaceships fight, with different missions and sound effects, using C#, OOP and MonoGame framework.
 
 ### Features
 * Multiple missions.
