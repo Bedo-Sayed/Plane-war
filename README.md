@@ -11,7 +11,7 @@ A 2D game in which planes/spaceships fight, with different missions and sound ef
 * Install MonoGame framework
 
 ### User guide 
-* Use W\S to move forward\backword.
+* Use W\S to move forward\backward.
 * Use A\D to rotate left\right.
 * Use Left click to shot.
 * If you collide with an enemey, you will die.
