@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/ice_planet.png</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/heavy_clouds3.png</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/heavy_clouds2.png</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/heavy_clouds4.png</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/heavy_clouds.png</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/sounds/click.wav</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/sounds/explosion_sound.wav</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/sounds/explosion_sound2.wav</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/sounds/fire_rocket.wav</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/sounds/game_over.wav</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/sounds/great_explosion.wav</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/sounds/great_explosion2.wav</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/sounds/great_gun_shot.wav</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/sounds/gun_shot.wav</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/sounds/GunShotSnglShotIn PE1097906.wav</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/sounds/laser_shot.wav</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/sounds/light_bullet.wav</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/sounds/long_explosion.wav</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/sounds/long_laser_shot.wav</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/sounds/long-explosion_edited.wav</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/sounds/lunch_rocket.wav</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/sounds/smooth_cold_wind.wav</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/sounds/sniper_shot.wav</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/sounds/success.wav</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/sounds/tadaa.wav</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/sounds/taking_coin.wav</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/sounds/three_two_one_fight.wav</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/sounds/war_drums.wav</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/sounds/woosh.wav</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/long_explosion.png</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/red_flag.png</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/earth_planet.png</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/planes/plane1.png</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/planes/plane10.png</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/planes/plane11.png</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/planes/plane12.png</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/planes/plane13.png</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/planes/plane14.png</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/planes/plane15.png</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/planes/plane2.png</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/planes/plane3.png</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/planes/plane4.png</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/planes/plane5.png</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/planes/plane6.png</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/planes/plane7.png</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/planes/plane8.png</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/planes/plane9.png</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/back_main_menu.jpg</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/clouds.png</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/exp.png</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/galleryFont.spritefont</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/map.png</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/pngegg.png</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/red.png</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/rock.png</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/rockets/1.png</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/rockets/2.png</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/rockets/3.png</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/rockets/4.png</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/rockets/5.png</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/rockets/6.png</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/rockets/7.png</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/rockets/8.png</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/rockets/bomb.png</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/rockets/bomb2.png</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/rockets/bullet.png</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/rockets/bullet2.png</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/rockets/nuclear.png</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/sky.png</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/space clouds.png</File>
+    <File>D:/clips/Codes/MonoGame/Last8/Project1/Project1/Content/stars.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
