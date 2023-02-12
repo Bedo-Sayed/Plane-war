@@ -3,8 +3,8 @@
 
 ### Features
 * Multiple missions.
-* Sound & visual effects.
-* Ai for enemies & friends.
+* Sound effects.
+* Ai for enemies && friends.
 
 ### How to run 
 * Install .Net SDK 6
